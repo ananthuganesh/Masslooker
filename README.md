@@ -11,7 +11,7 @@ For Help [JOIN TELEGRAM](https://t.me/ProjectX_insta) 😇
 
 ### Installation 
 ```
-git clone https://github.com/project-x8/Or_Masslooker
+git clone https://github.com/ananthuganesh/Masslooker.git
 ```
 ```
 cd Masslooker
