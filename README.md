@@ -14,7 +14,7 @@ For Help [JOIN TELEGRAM](https://t.me/ProjectX_insta) 😇
 git clone https://github.com/project-x8/Or_Masslooker
 ```
 ```
-cd Or_Masslooker
+cd Masslooker
 ```
 ```
 pkg install nodejs
