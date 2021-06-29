@@ -20,7 +20,7 @@ cd Masslooker
 pkg install nodejs
 ```
 ```
-unzip node_modules.zip
+npm install instagram-private-api
 ```
 ```
 node index.js
