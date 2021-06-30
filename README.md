@@ -1,4 +1,4 @@
-![Welcome](https://user-images.githubusercontent.com/84958449/120379775-dcd06b80-c33d-11eb-94b7-b1409c74cae7.gif)
+![NEW_01](https://user-images.githubusercontent.com/58104674/123949210-ef32d900-d9bf-11eb-92a8-a50a985d6ad6.gif)
 <h1 align="center">⚡ Or_Masslooker ⚡</h1 align="center"> 
 
 # Description
